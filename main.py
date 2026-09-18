@@ -1,4 +1,3 @@
-```python
 import re
 import requests
 import pandas as pd
@@ -148,4 +147,3 @@ for age in range(65, 100):
 
     if female_col in df.columns:
         eld
-```
